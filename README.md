@@ -1,7 +1,8 @@
-Password Generator by Mark Bryant | mabryant02@gmail.com
+Password Generator
 
 This is a simple encrypted string generator written in Ruby that may be suitable
 for creating passwords, depending on your security requirements.
+
 Run password-generator.rb if you have Ruby installed, or password-generator.exe
 if you are on Windows and do not have Ruby installed.
 
